@@ -1,0 +1,30 @@
+'/**
+ * Theme Name: Torex Safaris Adventure
+ * Theme URI: https://github.com/krobby046-cell/Torex-sofaris-advanture
+ * Description: A beautiful WordPress theme for safari tourism experiences in Uganda
+ * Version: 1.0.0
+ * Author: Torex Safaris Adventures
+ * Author URI: https://github.com/krobby046-cell
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: torex-safaris-adventure
+ * Domain Path: /languages
+ */
+
+/* ============================================
+   Torex Safaris Adventure Theme Styles
+   ============================================ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Add your custom styles here */'
